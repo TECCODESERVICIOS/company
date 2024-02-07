@@ -1,0 +1,22 @@
+body{
+    margin: 30px;
+    font-family:'Times New Roman', Times, serif;
+    background: rgb(255, 255, 255);
+        font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 400;
+        overflow-x: hidden;
+        margin-right: 5%;
+        margin-left: 5%;
+}
+p{
+    font-style: italic;
+    margin-left: 0;
+    margin-right: 0;
+}
+.p_edit1 {
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+   
+}
